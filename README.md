@@ -8,7 +8,7 @@
 <img src='https://user-images.githubusercontent.com/76830365/127750367-d1e5c8aa-c643-46f7-a2cc-b9667061c999.png'>
 
 ## 🚀 Technologies
-
+ 
 <ul>
     <li>Javascript</li>
     <li>html</li>
